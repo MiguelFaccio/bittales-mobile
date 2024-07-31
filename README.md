@@ -1,4 +1,4 @@
-# BITTALES [FRONTEND]
+# BITTALES [MOBILE]
 
 ## Requisitos
 
